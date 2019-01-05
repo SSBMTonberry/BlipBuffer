@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BlipBuffer" targetName="buffering" />
+      <config projectName="BlipBuffer" targetName="continuous" />
+      <config projectName="BlipBuffer" targetName="stereo" />
+      <config projectName="BlipBuffer" targetName="sdl_audio" />
+      <config projectName="BlipBuffer" targetName="waveform" />
+      <config projectName="BlipBuffer" targetName="delta_synth" />
+      <config projectName="BlipBuffer" targetName="treble_bass" />
+      <config projectName="BlipBuffer" targetName="clock_rate" />
+      <config projectName="BlipBuffer" targetName="square" />
+      <config projectName="BlipBuffer" targetName="external_mixing" />
+      <config projectName="BlipBuffer" targetName="multiple_waves" />
+      <config projectName="BlipBuffer" targetName="sample_formats" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="806027ae-107e-4478-9321-d59a5e334db4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-release/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="2562" />
+    <option name="height" value="1415" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BlipBuffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlipBuffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.buffering">
+    <configuration name="buffering" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="buffering" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="buffering">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clock_rate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="clock_rate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="clock_rate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="continuous" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="continuous">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="delta_synth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="delta_synth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="delta_synth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="external_mixing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="external_mixing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="external_mixing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multiple_waves" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="multiple_waves" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="multiple_waves">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sample_formats" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="sample_formats" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="sample_formats">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sdl_audio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="sdl_audio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="sdl_audio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="square" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="square" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="square">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stereo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="stereo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="stereo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="treble_bass" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="treble_bass" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="treble_bass">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="waveform" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BlipBuffer" TARGET_NAME="waveform" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlipBuffer" RUN_TARGET_NAME="waveform">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.buffering" />
+      <item itemvalue="Application.clock_rate" />
+      <item itemvalue="Application.continuous" />
+      <item itemvalue="Application.delta_synth" />
+      <item itemvalue="Application.external_mixing" />
+      <item itemvalue="Application.multiple_waves" />
+      <item itemvalue="Application.sample_formats" />
+      <item itemvalue="Application.sdl_audio" />
+      <item itemvalue="Application.square" />
+      <item itemvalue="Application.stereo" />
+      <item itemvalue="Application.treble_bass" />
+      <item itemvalue="Application.waveform" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="806027ae-107e-4478-9321-d59a5e334db4" name="Default Changelist" comment="" />
+      <created>1546724834177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546724834177</updated>
+      <workItem from="1546724835558" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="2562" height="1415" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
